@@ -1,0 +1,535 @@
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\appsettings.json
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.staticwebassets.runtime.json
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.exe
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.deps.json
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.runtimeconfig.json
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.pdb
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MessagePack.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.AssemblyInfo.cs
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.RazorAssemblyInfo.cache
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.RazorAssemblyInfo.cs
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets\msbuild.MusicPlayer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets\msbuild.build.MusicPlayer.props
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MusicPlayer.props
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MusicPlayer.props
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\scopedcss\bundle\MusicPlayer.styles.css
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\scopedcss\projectbundle\MusicPlayer.bundle.scp.css
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.csproj.CopyComplete
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\refint\MusicPlayer.dll
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.pdb
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.genruntimeconfig.cache
+C:\Users\astri\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\ref\MusicPlayer.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\appsettings.Development.json
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\appsettings.json
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.staticwebassets.runtime.json
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.exe
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.deps.json
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.runtimeconfig.json
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.pdb
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Humanizer.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MessagePack.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MessagePack.Annotations.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Build.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Common.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Configuration.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Frameworks.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.LibraryModel.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Packaging.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.ProjectModel.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Protocol.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\NuGet.Versioning.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.Convention.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.Hosting.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.Runtime.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Composition.TypedParts.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.csproj.AssemblyReference.cache
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.AssemblyInfoInputs.cache
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.AssemblyInfo.cs
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.csproj.CoreCompileInputs.cache
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.MvcApplicationPartsAssemblyInfo.cache
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.RazorAssemblyInfo.cache
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.RazorAssemblyInfo.cs
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets.build.json
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\staticwebassets.development.json
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\scopedcss\bundle\MusicPlayer.styles.css
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\scopedcss\projectbundle\MusicPlayer.bundle.scp.css
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.csproj.CopyComplete
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\refint\MusicPlayer.dll
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.pdb
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.genruntimeconfig.cache
+M:\Fall 22\Advanced Programming\MusicPlayer\MusicPlayer\obj\Debug\net6.0\ref\MusicPlayer.dll
