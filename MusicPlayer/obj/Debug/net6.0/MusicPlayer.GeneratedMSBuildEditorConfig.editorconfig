@@ -19,12 +19,68 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/PlaylistsDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzRGV0YWlsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/PlaylistsDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzRGV0YWlsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/PlaylistsDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzRGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/PlaylistsDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzRGV0YWlsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/PlaylistsDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzRGV0YWlsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Playlists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Playlists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Playlists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Playlists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Playlists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWxpc3RzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [M:/Fall 22/Advanced Programming/MusicPlayer/MusicPlayer/Pages/Privacy.cshtml]

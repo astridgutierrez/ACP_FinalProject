@@ -1,0 +1,48 @@
+﻿@page
+@model MusicPlayer.Pages.PlaylistsDetails.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PlaylistDetails[0].PlaylistId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlaylistDetails[0].PlaylistName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlaylistDetails[0].SongId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.PlaylistDetails) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlaylistId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlaylistName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SongId)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.PlaylistDetailsId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.PlaylistDetailsId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.PlaylistDetailsId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

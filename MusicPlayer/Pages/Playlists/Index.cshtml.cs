@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using MusicPlayer.Data;
 using MusicPlayer.Models;
 
-namespace MusicPlayer.Pages
+namespace MusicPlayer.Pages.Playlists
 {
     public class IndexModel : PageModel
     {
@@ -19,13 +19,13 @@ namespace MusicPlayer.Pages
             _context = context;
         }
 
-        public IList<User> User { get;set; } = default!;
+        public IList<Playlist> Playlist { get;set; } = default!;
 
         public async Task OnGetAsync()
         {
-            if (_context.User != null)
+            if (_context.Playlist != null)
             {
-                User = await _context.User.ToListAsync();
+                Playlist = await _context.Playlist.ToListAsync();
             }
         }
     }

@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MusicPlayer.Data;
 
@@ -10,9 +11,10 @@ using MusicPlayer.Data;
 namespace MusicPlayer.Migrations
 {
     [DbContext(typeof(MusicPlayerContext))]
-    partial class MusicPlayerContextModelSnapshot : ModelSnapshot
+    [Migration("20221215052158_PlaylistDetails")]
+    partial class PlaylistDetails
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

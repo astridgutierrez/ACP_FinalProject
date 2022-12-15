@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MusicPlayer.Data;
 
@@ -10,9 +11,10 @@ using MusicPlayer.Data;
 namespace MusicPlayer.Migrations
 {
     [DbContext(typeof(MusicPlayerContext))]
-    partial class MusicPlayerContextModelSnapshot : ModelSnapshot
+    [Migration("20221215050840_User")]
+    partial class User
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -36,29 +38,6 @@ namespace MusicPlayer.Migrations
                     b.HasKey("PlaylistId");
 
                     b.ToTable("Playlist");
-                });
-
-            modelBuilder.Entity("MusicPlayer.Models.PlaylistDetails", b =>
-                {
-                    b.Property<int>("PlaylistDetailsId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PlaylistDetailsId"), 1L, 1);
-
-                    b.Property<int>("PlaylistId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("PlaylistName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("SongId")
-                        .HasColumnType("int");
-
-                    b.HasKey("PlaylistDetailsId");
-
-                    b.ToTable("PlaylistDetails");
                 });
 
             modelBuilder.Entity("MusicPlayer.Models.Song", b =>

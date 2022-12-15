@@ -11,6 +11,11 @@ namespace MusicPlayer.Pages.Account
         public Credential Credential { get; set; }
         public void OnGet()
         {
+            this.Credential = new Credential { UserName = "admin" };
+        }
+        public void OnPost()
+        {
+
         }
     }
 

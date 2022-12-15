@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MusicPlayer.Data;
 
@@ -10,9 +11,10 @@ using MusicPlayer.Data;
 namespace MusicPlayer.Migrations
 {
     [DbContext(typeof(MusicPlayerContext))]
-    partial class MusicPlayerContextModelSnapshot : ModelSnapshot
+    [Migration("20221215050637_Playlist")]
+    partial class Playlist
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -38,29 +40,6 @@ namespace MusicPlayer.Migrations
                     b.ToTable("Playlist");
                 });
 
-            modelBuilder.Entity("MusicPlayer.Models.PlaylistDetails", b =>
-                {
-                    b.Property<int>("PlaylistDetailsId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PlaylistDetailsId"), 1L, 1);
-
-                    b.Property<int>("PlaylistId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("PlaylistName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("SongId")
-                        .HasColumnType("int");
-
-                    b.HasKey("PlaylistDetailsId");
-
-                    b.ToTable("PlaylistDetails");
-                });
-
             modelBuilder.Entity("MusicPlayer.Models.Song", b =>
                 {
                     b.Property<int>("Id")
@@ -78,27 +57,6 @@ namespace MusicPlayer.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Song");
-                });
-
-            modelBuilder.Entity("MusicPlayer.Models.User", b =>
-                {
-                    b.Property<int>("UserId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserId"), 1L, 1);
-
-                    b.Property<string>("Password")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("UserId");
-
-                    b.ToTable("User");
                 });
 #pragma warning restore 612, 618
         }

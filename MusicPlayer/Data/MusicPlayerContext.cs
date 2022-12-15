@@ -15,5 +15,11 @@ namespace MusicPlayer.Data
         }
 
         public DbSet<MusicPlayer.Models.Song> Song { get; set; } = default!;
+
+        public DbSet<MusicPlayer.Models.Playlist> Playlist { get; set; }
+
+        public DbSet<MusicPlayer.Models.User> User { get; set; }
+
+        public DbSet<MusicPlayer.Models.PlaylistDetails> PlaylistDetails { get; set; }
     }
 }
