@@ -1,12 +1,7 @@
 ﻿@page
 @model MusicPlayer.Pages.Playlists.IndexModel
-
-@{
-    ViewData["Title"] = "Index";
-}
-
+@{    ViewData["Title"] = "Created playlists";   }
 <h1>Index</h1>
-
 <p>
     <a asp-page="Create">Create New</a>
 </p>
@@ -26,11 +21,9 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.PlaylistId">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.PlaylistId">Details</a> |
+                <a asp-page="../Songs/Index" asp-route-id="@item.PlaylistId">Edit</a>
                 <a asp-page="./Delete" asp-route-id="@item.PlaylistId">Delete</a>
             </td>
-        </tr>
-}
+        </tr> }
     </tbody>
 </table>

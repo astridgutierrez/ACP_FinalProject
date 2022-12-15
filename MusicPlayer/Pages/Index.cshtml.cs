@@ -1,32 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using MusicPlayer.Data;
-using MusicPlayer.Models;
 
 namespace MusicPlayer.Pages
 {
     public class IndexModel : PageModel
     {
-        private readonly MusicPlayer.Data.MusicPlayerContext _context;
+        private readonly ILogger<IndexModel> _logger;
 
-        public IndexModel(MusicPlayer.Data.MusicPlayerContext context)
+        public IndexModel(ILogger<IndexModel> logger)
         {
-            _context = context;
+            _logger = logger;
         }
 
-        public IList<User> User { get;set; } = default!;
-
-        public async Task OnGetAsync()
+        public void OnGet()
         {
-            if (_context.User != null)
-            {
-                User = await _context.User.ToListAsync();
-            }
+
         }
     }
 }

@@ -2,10 +2,10 @@
 @model MusicPlayer.Pages.Songs.IndexModel
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Song catalog";
 }
 
-<h1>Index</h1>
+<h1>Song catalog</h1>
 
 <p>
     <a asp-page="Create">Create New</a>
@@ -13,6 +13,9 @@
 <table class="table">
     <thead>
         <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Song[0].Id)
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Song[0].Title)
             </th>
@@ -26,10 +29,18 @@
 @foreach (var item in Model.Song) {
         <tr>
             <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
                 @Html.DisplayFor(modelItem => item.Title)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Artist)
+            </td>
+            <td>
+                <audio id="audio" controls>
+                        <source src="..\SongFiles\HeatWaves.mp3" type="audio/mp3">
+                </audio>
             </td>
             <td>
                 <a asp-page="../PlaylistsDetails/Create" asp-route-id="@item.Id">Add to new playlist</a>

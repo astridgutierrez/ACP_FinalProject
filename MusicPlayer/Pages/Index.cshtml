@@ -1,12 +1,7 @@
 ﻿@page
-@model MusicPlayer.Pages.IndexModel
-
-@{
-    ViewData["Title"] = "Index";
-}
-
-<h1>Index</h1>
-
+@model MusicPlayer.Pages.Songs.IndexModel
+@{    ViewData["Title"] = "Index";   }
+<h1>Song catalog</h1>
 <p>
     <a asp-page="Create">Create New</a>
 </p>
@@ -14,29 +9,42 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.User[0].UserName)
+                @Html.DisplayNameFor(model => model.Song[0].Id)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.User[0].Password)
+                @Html.DisplayNameFor(model => model.Song[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Song[0].Artist)
             </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model.User) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.UserName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Password)
-            </td>
-            <td>
-                <a asp-page="./Edit" asp-route-id="@item.UserId">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.UserId">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.UserId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model.Song)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Artist)
+                </td>
+                <td>
+                    <audio id="audio" controls>
+                            <source src="./SongFiles/HeatWaves.mp3" type="audio/mp3">
+                    </audio>
+                </td>
+                <td>
+                    <a asp-page="./PlaylistsDetails/Create" asp-route-id="@item.Id">Add to new playlist</a>
+                </td>
+                <td>
+                    <a asp-page="./PlaylistsDetails/Edit" asp-route-id="@item.Id">Add to existing playlist</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
